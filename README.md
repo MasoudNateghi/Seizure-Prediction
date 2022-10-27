@@ -1,5 +1,8 @@
 # Seizure-Prediction
-In this repository, directional and bidirectional connectivities were used to predict whether a given time interval is pre-ictal or inter-ictal. B.Sc thesis of Masoud Nateghi @Sharif University of technology
+In this repository, directional and bidirectional connectivities were used to predict whether a given time interval is pre-ictal or inter-ictal. 
+
+B.Sc thesis of Masoud Nateghi @Sharif University of technology
+
 Dataset available at: https://physionet.org/content/chbmit/1.0.0/
 
 ## Connectivity
